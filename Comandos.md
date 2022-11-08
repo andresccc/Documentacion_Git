@@ -15,3 +15,17 @@
 #### git branch -> mirar en que rama estamos
 
 #### git commit -am "~mensaje~" -> Subir archivos directamente
+
+#### .gitkeep -> Agregar para carpetas vacias
+
+#### git config --global alias.S "status --short" -> Aberviar comandos alias.~Abreviatura~ "~Metodo abreviado~"
+
+#### git commit --amend -m "~mensaje~" -> Corregir texto del commit anterior
+
+#### git reset --soft HEAD~3 -> Retroceder commits
+
+#### git reset --soft ~codigo commit a45ca66~ -> Retroceder al commit seleccionado
+
+#### git reset --mixed ~codigo commit a45ca66~ -> Retroceder al commit, saca todo del stage.
+
+#### git reset --hard ~codigo commit a45ca66~ -> Retroceder al commit, borra todo lo que hay después del seleccionado
