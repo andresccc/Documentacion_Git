@@ -29,3 +29,12 @@
 #### git reset --mixed ~codigo commit a45ca66~ -> Retroceder al commit, saca todo del stage.
 
 #### git reset --hard ~codigo commit a45ca66~ -> Retroceder al commit, borra todo lo que hay después del seleccionado
+
+#### git reflog -> Muestra todo lo sucedido en orden cronologico
+
+#### git mv ViejoNombre.md NuevoNombre.md -> Renombrar archivos sin perder historial
+
+#### git rm ~ruta/nombre~ -> Remover un archivo, debe completarse con un commit
+
+#### .gitignore -> Usado para agregar archivos a los que no se les da seguimiento 
+
