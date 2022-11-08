@@ -1,15 +1,13 @@
-Crear git en local
+### git init - Crear git en local
 
-### git init
+### git status - Estado de los archivos
 
-<!-- Crear git en local -->
+### git add . - Alistar archivos
 
-### git init
+### git reset _ruta y nombre_ - Remover el archivo
 
-Crear git en local
+### git commit -m "_mensaje_" -
 
-### git init
+### git init - Crear git en local
 
-Crear git en local
-
-### git init
+### git init - Crear git en local
