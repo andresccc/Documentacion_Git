@@ -36,5 +36,38 @@
 
 #### git rm ~ruta/nombre~ -> Remover un archivo, debe completarse con un commit
 
-#### .gitignore -> Usado para agregar archivos a los que no se les da seguimiento 
+#### .gitignore -> Usado para agregar archivos a los que no se les da seguimiento
 
+## RAMAS
+
+#### git branch nuevo-nombre -> Crear una rama nueva
+
+#### git checkout nuevo-nombre -> Pasarnos a trabajar a esa rama
+
+#### git branch -> Mirar donde estamos trabajando
+
+#### git merge nuevo-nombre -> Debe hacerse desde master, para traer los cambios echos en la otra rama
+
+#### git branch -d nuevo-nombre -> Eliminar una rama
+
+#### git branch -d nuevo-nombre -f -> Eliminar forzado, asi hayan cambios pendientes
+
+#### git checkout -b nuevonombre2 -> Crear una rama y pasarte en un paso
+
+#### git tag ~nombre~ -> Dejar etiquetas, como versión o notas importantes
+
+#### git tag -> Ver los tag que tengo
+
+#### git tag -d ~nombre~ -> Borrar un tag
+
+#### git tag -a ~nombre~ -m "~nota~" -> Para anotar versiones
+
+#### git show ~nombre~ -> Ver más información del tag
+
+#### git stash -> Guardar cambios en stash
+
+#### git stash list -> Ver lista de stash
+
+#### git stash pop -> Trae el ultimo stash
+
+#### git stash clear -> Borrar todos los stash
