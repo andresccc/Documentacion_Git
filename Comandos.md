@@ -78,7 +78,7 @@
 
 #### git pull -> Bajar los cambios de GitHub
 
-#### git clone -> Clonar un repositorio
+#### git clone ~ruta~ -> Clonar un repositorio
 
 #### git config --global pull.rebase true -> Solución conflictos rebase
 
