@@ -71,3 +71,15 @@
 #### git stash pop -> Trae el ultimo stash
 
 #### git stash clear -> Borrar todos los stash
+
+## GITHUB REMOTE
+
+#### git push -> subir cambios a GitHub
+
+#### git pull -> Bajar los cambios de GitHub
+
+#### git clone Clonar un repositorio
+
+#### git config --global pull.rebase true -> Solución conflictos rebase
+
+#### git rebase --continue -> Terminar rebase satisfactorio "~Antes hacer git commit~"
