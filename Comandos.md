@@ -1,5 +1,3 @@
-### [Esc] wq! -> Salir de edición de consola
-
 #### git init -> Crear git en local
 
 #### git status -> Estado de los archivos
@@ -85,3 +83,5 @@
 #### git config --global pull.rebase true -> Solución conflictos rebase
 
 #### git rebase --continue -> Terminar rebase satisfactorio "~Antes hacer git commit~"
+
+### [Esc] wq! -> Salir de edición de consola
