@@ -1,3 +1,5 @@
+### [Esc] wq! -> Salir de edición de consola
+
 #### git init -> Crear git en local
 
 #### git status -> Estado de los archivos
