@@ -1,3 +1,13 @@
+## CONFIGURACIÓN GLOBAL GIT
+
+#### git config --list -> Ver tu configuración global
+
+#### git config --global user.name "Tu nombre" -> Configurar tu nombre
+
+#### git config --global user.email "tuemail@tudominio.com" -> Configurar tu correo
+
+## COMANDOS GENERALES 
+
 #### git init -> Crear git en local
 
 #### git status -> Estado de los archivos
