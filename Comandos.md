@@ -24,6 +24,8 @@
 
 #### git branch -> mirar en que rama estamos
 
+#### git fetch -> Actualizar un repositorio local al estado del remoto
+
 #### git commit -am "~mensaje~" -> Subir archivos directamente
 
 #### .gitkeep -> Agregar para carpetas vacias
