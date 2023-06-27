@@ -58,6 +58,8 @@
 
 #### git branch -> Mirar donde estamos trabajando
 
+#### git checkout -b ＜new-branch＞ ＜existing-branch＞ -> Crear y pasarnos a esa rama
+
 #### git merge nuevo-nombre -> Debe hacerse desde master, para traer los cambios echos en la otra rama
 
 #### git branch -d nuevo-nombre -> Eliminar una rama
